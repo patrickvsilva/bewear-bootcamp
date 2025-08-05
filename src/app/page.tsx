@@ -1,9 +1,9 @@
-import { Calendar } from "@/components/ui/calendar";
+import { Button } from "@/components/ui/button";
 
 const Home = () => {
   return (
     <div>
-      <Calendar />
+      <Button>Click me!</Button>
     </div>
   );
 };
